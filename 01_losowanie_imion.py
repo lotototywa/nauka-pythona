@@ -14,6 +14,11 @@
 # więc by importować random trzeba napisać import random 
 import random
 
+# to jest zmienna do której przypisuje liste imion z mojej rodziny
 lista_imion = ["jacek","jagoda","dominik","kasia"]
-moje_imie=random.choice(lista_imion)
+
+# funkcja random.choice wybiera losowy element z podanej listy 
+moje_imie = random.choice(lista_imion)
+
+# a teraz wyświetla mi się wylosowany element na ekranie
 print(f'Cześć, jestem {moje_imie}!')
