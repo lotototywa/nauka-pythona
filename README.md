@@ -18,9 +18,9 @@ W tym projekcie zapisuję sobie swoje ćwiczenia z Pythona, których uczy mnie @
 
 ### linux
 
-`clear` - 
+`clear` -  czyści ekran terminala
 
-`mkdir` - 
+`mkdir` - tworzy nowy katalog
 
 ## Co nowego
 
