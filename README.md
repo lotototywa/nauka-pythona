@@ -10,6 +10,8 @@ W tym projekcie zapisuję sobie swoje ćwiczenia z Pythona, których uczy mnie @
 
 `git pull`
 
+`git status`
+
 `git add .`
 
 `git commit -m "komentarz"`
@@ -24,6 +26,9 @@ W tym projekcie zapisuję sobie swoje ćwiczenia z Pythona, których uczy mnie @
 
 ## Co nowego
 
+### 2019-10-6
+
+napisałem gre kamień papier nożyce
 
 ### 2019-09-29
 
@@ -32,3 +37,4 @@ Napisałem program obliczający wiek psa, z podręcznika do Pythona
 ### 2019-09-28
 
 Zrobiłem ćwiczenie z losowania osoby z listy
+
