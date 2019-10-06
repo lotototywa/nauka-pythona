@@ -26,9 +26,13 @@ W tym projekcie zapisuję sobie swoje ćwiczenia z Pythona, których uczy mnie @
 
 ## Co nowego
 
-### 2019-10-6
+### 2019-10-06
 
-napisałem gre kamień papier nożyce
+Dopisałem porównywanie wybranych przedmiotów i wybieranie zwycięzcy
+
+### 2019-10-02
+
+Napisałem początek programu kamień papier nożyce
 
 ### 2019-09-29
 
