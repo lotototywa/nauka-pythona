@@ -17,12 +17,7 @@ przedmioty = ["kamień", "papier", "nożyce"]
 
 wybor_gracza = input(
     "wybierz "
-    + ", ".join(
-        [
-            "kamień", 
-            "papier", 
-            "nożyce"
-        ])
+    + ", ".join(przedmioty)
     + ": "
     )
 

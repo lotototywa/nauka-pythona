@@ -8,14 +8,19 @@ W tym projekcie zapisuję sobie swoje ćwiczenia z Pythona, których uczy mnie @
 
 ### git
 
+Pobranie zmian z głównego repozytorium
 `git pull`
 
+Sprawdzenie statusu lokalnego repozytorium
 `git status`
 
+Dodanie nowych plików do repozytorium
 `git add .`
 
+Zatwierdzenie zmian w repozytorium
 `git commit -m "komentarz"`
 
+Wysłanie zatwierdzonych zmian do głównego repozytorium
 `git push origin`
 
 ### linux
@@ -42,3 +47,6 @@ Napisałem program obliczający wiek psa, z podręcznika do Pythona
 
 Zrobiłem ćwiczenie z losowania osoby z listy
 
+### 2021-03-06
+
+Program do generowania haseł metodą Diceware (w polskiej wersji)
